@@ -2,7 +2,7 @@ public class main {
 
     public static void main(String[] args) {
         int x = 200; //начальная сумма на счету клиента
-        int y = 1300; //сумма пополнение сета
+        int y = 1300; //сумма пополнения счета
         int bonus;
 
 
